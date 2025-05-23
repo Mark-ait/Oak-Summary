@@ -110,4 +110,3 @@ ALTER TABLE `wp_posts` ADD `summary` TEXT NULL DEFAULT NULL AFTER `post_content`
 ## 鸣谢  
 - 感谢 [DeepSeek 团队](https://www.deepseek.com/) 提供的大语言模型服务。  
 - 参考 WordPress 官方插件开发文档及社区最佳实践。  
-```
