@@ -1,3 +1,4 @@
+![Uploading QQ截图20250523160528.png…]()
 
 
 # DeepSeek AI 自动摘要插件  
@@ -83,7 +84,7 @@ ALTER TABLE `wp_posts` ADD `summary` TEXT NULL DEFAULT NULL AFTER `post_content`
 
 ### 贡献与反馈  
 欢迎通过 GitHub 提交 Issue 或 Pull Request 参与开发：  
-[插件开源仓库地址](https://github.com/your-username/deepseek-ai-summary)（请替换为实际仓库链接）  
+[插件开源仓库地址](https://github.com/Mark-ait/Oak-Summary)（请替换为实际仓库链接）  
 
 如需技术支持或反馈问题，请联系：  
 邮箱：`your-email@example.com`（请替换为实际邮箱）  
