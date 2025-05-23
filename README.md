@@ -1,4 +1,4 @@
-![Uploading QQ截图20250523160528.png…]()
+![AI](https://cdn.8i5.net/2025/05/QQ%E6%88%AA%E5%9B%BE20250523160528.png)
 
 
 # DeepSeek AI 自动摘要插件  
