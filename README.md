@@ -87,7 +87,7 @@ ALTER TABLE `wp_posts` ADD `summary` TEXT NULL DEFAULT NULL AFTER `post_content`
 [插件开源仓库地址](https://github.com/Mark-ait/Oak-Summary)（请替换为实际仓库链接）  
 
 如需技术支持或反馈问题，请联系：  
-邮箱：`your-email@example.com`（请替换为实际邮箱）  
+邮箱：`lee@8i5.net`（请替换为实际邮箱）  
 
 
 ## 许可证  
@@ -110,4 +110,3 @@ ALTER TABLE `wp_posts` ADD `summary` TEXT NULL DEFAULT NULL AFTER `post_content`
 
 ## 鸣谢  
 - 感谢 [DeepSeek 团队](https://www.deepseek.com/) 提供的大语言模型服务。  
-- 参考 WordPress 官方插件开发文档及社区最佳实践。  
