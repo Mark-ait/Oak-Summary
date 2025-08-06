@@ -84,10 +84,10 @@ ALTER TABLE `wp_posts` ADD `summary` TEXT NULL DEFAULT NULL AFTER `post_content`
 
 ### 贡献与反馈  
 欢迎通过 GitHub 提交 Issue 或 Pull Request 参与开发：  
-[插件开源仓库地址](https://github.com/Mark-ait/Oak-Summary)（请替换为实际仓库链接）  
+[插件开源仓库地址](https://github.com/Mark-ait/Oak-Summary)
 
 如需技术支持或反馈问题，请联系：  
-邮箱：`lee@8i5.net`（请替换为实际邮箱）  
+邮箱：`lee@8i5.net`  
 
 
 ## 许可证  
