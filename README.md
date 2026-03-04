@@ -1,4 +1,4 @@
-![AI](https://cdn.8i5.net/2025/05/QQ%E6%88%AA%E5%9B%BE20250523160528.png)
+<img width="150" height="150" alt="LOGO" src="https://github.com/user-attachments/assets/b2e457ad-6bb6-4fc4-8c83-865055ff11c6" />
 
 
 # DeepSeek AI 自动摘要插件  
